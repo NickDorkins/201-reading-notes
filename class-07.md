@@ -7,25 +7,24 @@ When representing information in a table, you need to think in terms of a grid m
 - Represent complex data using tables
 - Add captions to tables
 
-- <table> -  element used to create a table. 
+-`<table>` -  element used to create a table. 
   - The contents of the table are written out row by row.
 
-- <tr> - indicates the start of each row by the opening <tr> tag.
+-`<tr>` - indicates the start of each row by the opening`<tr>` tag.
   - The tr stands for table row.
-  - <tr> is followed by one or more <td> elements (one for each cell in that row).
-At the end of the row you use a closing </tr> tag.
-<td>
-Each cell of a table is represented using a <td> element. (The td stands for table data.)
-At the end of each cell you use a closing </td> tag.
+  - `<tr>` is followed by one or more `<td>` elements (one for each cell in that row).
+At the end of the row you use a closing `</tr>` tag.
+`<td>`
+Each cell of a table is represented using a`<td>` element. (The td stands for table data.)
+At the end of each cell you use a closing `</td>` tag.
 
-- <th> - Table Heading
-- rowspan - can be used on a <th> or <td> element to indicate how many rows a cell should span down the table.
+-`<th>` - Table Heading
+- rowspan - can be used on a`<th>` or`<td>` element to indicate how many rows a cell should span down the table.
 
-- <thead> - headings of the table should sit inside the <thead> element.
-- <tbody> - body should sit inside the <tbody> element.
-- <tfoot> - footer belongs inside the <tfoot> element.
-
-<!-- end pg 145 -->
+-`<thead>` - headings of the table should sit inside the`<thead>` element.
+-`<tbody>` - body should sit inside the`<tbody>` element.
+-`<tfoot>` - footer belongs inside the`<tfoot>` element.
+`<!-- end pg 145 -->
 ## Duckett JS Chapter 3: Functions, Methods, and Objects (pp.106-144)
 
 ### CREATE THE OBJECT, THEN ADD PROPERTIES & METHODS:
@@ -64,7 +63,7 @@ DOM creates a model of the current webpage.
 
 - Functions allow you to group a set of related statements together that represent a single task.
 
-- Functions can take parameters (information required to do their job) and may return a value.
+- Functions can take parameters, information required to do their job and may return a value.
 
 - An object is a series of variables and functions that represent something from the world around you.
 
@@ -74,4 +73,4 @@ DOM creates a model of the current webpage.
 
 - JavaScript also has several built-in objects such as String, Number, Math, and Date. Their properties and methods offer functionality that help you write scripts.
 
-- Arrays and objects can be used to create complex data sets (and both can contain the other).
+- Arrays and objects can be used to create complex data sets and both can contain the other.
