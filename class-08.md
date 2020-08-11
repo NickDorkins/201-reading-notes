@@ -90,16 +90,3 @@ size of their browser window. They tend to use percentages.
 
 
 
-### Duckett JS Chapter3: Functions Methods and Objects (86-99)
-
-- **Function Keyword**
-  - only contains one statement
-  - store the instructions for that specific task
-- **Function Name**
-  - Calls the function
-- **Code Block**
-  - function executes the code in the code block
-- **Parameters**
-  - Function similar to variables
-
-
