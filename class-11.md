@@ -96,7 +96,7 @@ To reduce the number of images your browser has to load, you can create image sp
 
 - `Page title` - The page title appears at the top of the browser window or on the tab of a browser. It is specified in the `<title>` element which lives inside the `<head>` element.
 
-- `url` / `WeB address` - The name of the file is part of the URL. Where possible, use keywords in the file name.
+- `URL` / `Web Address` - The name of the file is part of the URL. Where possible, use keywords in the file name.
 
 - `headings` - If the keywords are in a heading `<hn>` element then a search engine will know that this page is all about that subject and give it greater weight than other text.
 
